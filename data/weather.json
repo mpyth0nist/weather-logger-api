@@ -1,0 +1,60 @@
+[
+{
+    "id": 1,
+    "city": "Temara",
+    "country": "Morocco",
+    "timestamp": "2025-10-25T14:00:00Z",
+    "tempC": 23.4,
+    "humidity": 0.56,
+    "pressure": 1015,
+    "conditions": "clear|clouds|rain|storm|snow",
+    "wind": { "speed": 4.2, "deg": 210 }
+},
+ 
+{
+    "id": 2,
+    "city": "Marrakech",
+    "country": "Morocco",
+    "timestamp": "2025-11-09T14:00:00Z",
+    "tempC": 26.0,
+    "humidity": 0.40,
+    "pressure": 1010,
+    "conditions": "clear",
+    "wind": { "speed": 10.0, "deg": 180 }
+},
+
+{
+    "id": 3,
+    "city": "Rabat",
+    "country": "Morocco",
+    "timestamp": "2025-11-09T14:00:00Z",
+    "tempC": 22.0,
+    "humidity": 0.60,
+    "pressure": 1012,
+    "conditions": "clouds",
+    "wind": { "speed": 12.0, "deg": 190 }
+},
+
+{
+    "id": 4,
+    "city": "Fes",
+    "country": "Morocco",
+    "timestamp": "2025-11-09T14:00:00Z",
+    "tempC": 20.0,
+    "humidity": 0.75,
+    "pressure": 1015,
+    "conditions": "rain",
+    "wind": { "speed": 8.0, "deg": 150 }
+},
+{
+    "id": 5,
+    "city": "Casablanca",
+    "country": "Morocco",
+    "timestamp": "2025-11-09T14:00:00Z",
+    "tempC": 21.0,
+    "humidity": 0.65,
+    "pressure": 1013,
+    "conditions": "clouds",
+    "wind": { "speed": 15.0, "deg": 200 }
+}
+]
