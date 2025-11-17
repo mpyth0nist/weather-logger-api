@@ -7,12 +7,80 @@
     "tempC": 23.4,
     "humidity": 0.56,
     "pressure": 1015,
-    "conditions": "clear|clouds|rain|storm|snow",
+    "conditions": "clear",
     "wind": { "speed": 4.2, "deg": 210 }
 },
+  {
+    "id": 2,
+    "city": "Temara",
+    "country": "Morocco",
+    "timestamp": "2025-10-26T14:00:00Z",
+    "tempC": 24.1,
+    "humidity": 0.58,
+    "pressure": 1013,
+    "conditions": "partly cloudy",
+    "wind": { "speed": 5.0, "deg": 220 }
+  },
+  {
+    "id": 3,
+    "city": "Temara",
+    "country": "Morocco",
+    "timestamp": "2025-10-27T14:00:00Z",
+    "tempC": 22.9,
+    "humidity": 0.60,
+    "pressure": 1012,
+    "conditions": "cloudy",
+    "wind": { "speed": 4.5, "deg": 200 }
+  },
+  {
+    "id": 4,
+    "city": "Temara",
+    "country": "Morocco",
+    "timestamp": "2025-10-28T14:00:00Z",
+    "tempC": 21.7,
+    "humidity": 0.62,
+    "pressure": 1009,
+    "conditions": "light rain",
+    "wind": { "speed": 6.1, "deg": 195 }
+  },
+  {
+    "id": 5,
+    "city": "Temara",
+    "country": "Morocco",
+    "timestamp": "2025-10-29T14:00:00Z",
+    "tempC": 22.3,
+    "humidity": 0.59,
+    "pressure": 1011,
+    "conditions": "light rain",
+    "wind": { "speed": 5.8, "deg": 210 }
+  },
+  {
+    "id": 6,
+    "city": "Temara",
+    "country": "Morocco",
+    "timestamp": "2025-10-30T14:00:00Z",
+    "tempC": 23.0,
+    "humidity": 0.57,
+    "pressure": 1014,
+    "conditions": "clear",
+    "wind": { "speed": 4.7, "deg": 220 }
+  },
+  {
+    "id": 7,
+    "city": "Temara",
+    "country": "Morocco",
+    "timestamp": "2025-10-31T14:00:00Z",
+    "tempC": 24.5,
+    "humidity": 0.54,
+    "pressure": 1016,
+    "conditions": "clear",
+    "wind": { "speed": 3.9, "deg": 215 }
+  },
+
+
  
 {
-    "id": 2,
+    "id": 8,
     "city": "Marrakech",
     "country": "Morocco",
     "timestamp": "2025-11-09T14:00:00Z",
@@ -24,7 +92,7 @@
 },
 
 {
-    "id": 3,
+    "id": 9,
     "city": "Rabat",
     "country": "Morocco",
     "timestamp": "2025-11-09T14:00:00Z",
@@ -36,7 +104,7 @@
 },
 
 {
-    "id": 4,
+    "id": 10,
     "city": "Fes",
     "country": "Morocco",
     "timestamp": "2025-11-09T14:00:00Z",
@@ -47,7 +115,7 @@
     "wind": { "speed": 8.0, "deg": 150 }
 },
 {
-    "id": 5,
+    "id": 11,
     "city": "Casablanca",
     "country": "Morocco",
     "timestamp": "2025-11-09T14:00:00Z",
@@ -56,5 +124,118 @@
     "pressure": 1013,
     "conditions": "clouds",
     "wind": { "speed": 15.0, "deg": 200 }
-}
+},
+
+  {
+    "id": 12,
+    "city": "Casablanca",
+    "country": "Morocco",
+    "timestamp": "2025-10-25T14:00:00Z",
+    "tempC": 22.3,
+    "humidity": 0.64,
+    "pressure": 1014,
+    "conditions": "clouds",
+    "wind": { "speed": 12.5, "deg": 210 }
+  },
+  {
+    "id": 13,
+    "city": "Rabat",
+    "country": "Morocco",
+    "timestamp": "2025-10-25T14:00:00Z",
+    "tempC": 21.1,
+    "humidity": 0.60,
+    "pressure": 1012,
+    "conditions": "clear",
+    "wind": { "speed": 10.0, "deg": 185 }
+  },
+  {
+    "id": 14,
+    "city": "Marrakech",
+    "country": "Morocco",
+    "timestamp": "2025-10-25T14:00:00Z",
+    "tempC": 28.5,
+    "humidity": 0.38,
+    "pressure": 1009,
+    "conditions": "clear",
+    "wind": { "speed": 8.3, "deg": 170 }
+  },
+  {
+    "id": 15,
+    "city": "Fes",
+    "country": "Morocco",
+    "timestamp": "2025-10-25T14:00:00Z",
+    "tempC": 19.4,
+    "humidity": 0.72,
+    "pressure": 1016,
+    "conditions": "rain",
+    "wind": { "speed": 6.0, "deg": 140 }
+  },
+  {
+    "id": 16,
+    "city": "Agadir",
+    "country": "Morocco",
+    "timestamp": "2025-10-25T14:00:00Z",
+    "tempC": 25.6,
+    "humidity": 0.52,
+    "pressure": 1011,
+    "conditions": "clear",
+    "wind": { "speed": 14.2, "deg": 220 }
+  },
+  {
+    "id": 17,
+    "city": "Tangier",
+    "country": "Morocco",
+    "timestamp": "2025-10-25T14:00:00Z",
+    "tempC": 20.2,
+    "humidity": 0.70,
+    "pressure": 1015,
+    "conditions": "clouds",
+    "wind": { "speed": 16.0, "deg": 260 }
+  },
+  {
+    "id": 18,
+    "city": "Oujda",
+    "country": "Morocco",
+    "timestamp": "2025-10-25T14:00:00Z",
+    "tempC": 18.7,
+    "humidity": 0.68,
+    "pressure": 1017,
+    "conditions": "rain",
+    "wind": { "speed": 9.8, "deg": 130 }
+  },
+  {
+    "id": 19,
+    "city": "Tetouan",
+    "country": "Morocco",
+    "timestamp": "2025-10-25T14:00:00Z",
+    "tempC": 19.8,
+    "humidity": 0.73,
+    "pressure": 1018,
+    "conditions": "clouds",
+    "wind": { "speed": 11.4, "deg": 240 }
+  },
+  {
+    "id": 20,
+    "city": "Meknes",
+    "country": "Morocco",
+    "timestamp": "2025-10-25T14:00:00Z",
+    "tempC": 20.5,
+    "humidity": 0.66,
+    "pressure": 1014,
+    "conditions": "rain",
+    "wind": { "speed": 7.9, "deg": 200 }
+  },
+  {
+    "id": 21,
+    "city": "Essaouira",
+    "country": "Morocco",
+    "timestamp": "2025-10-25T14:00:00Z",
+    "tempC": 23.0,
+    "humidity": 0.58,
+    "pressure": 1013,
+    "conditions": "clear",
+    "wind": { "speed": 18.6, "deg": 230 }
+  }
 ]
+
+
